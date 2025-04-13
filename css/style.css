@@ -66,6 +66,10 @@ img {
     cursor: pointer;
 }
 
+.bottom-btn{
+    margin-bottom: 100px;
+}
+
 .btn:hover {
     background-color: var(--accent-color);
     color: var(--white-color);
